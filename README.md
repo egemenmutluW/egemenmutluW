@@ -50,6 +50,7 @@
 !![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egemenmutluW&show_icons=true&theme=radical)
 <br>
 <h3 align="left">Trophy:</h3>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=egemenmutluW&theme=synthwave&border_radius=3)](https://git.io/streak-stats)
 
 
