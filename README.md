@@ -47,7 +47,7 @@
 
 <h3 align="left">Stats:</h3>
 
-!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egemenmutluW&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egemenmutluW&show_icons=true&theme=radical)
 <br>
 <h3 align="left">Trophy:</h3>
 
