@@ -47,15 +47,10 @@
 
 <h3 align="left">Stats:</h3>
 
-<div style="text-align: center">
 !![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egemenmutluW&show_icons=true&theme=radical)
 <br>
-</div>
-<br>
 <h3 align="left">Trophy:</h3>
-<div style="text-align: center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=egemenmutluW&theme=synthwave&border_radius=3)](https://git.io/streak-stats)
-</div>
 
 
 <h3 align="left">Support:</h3>
