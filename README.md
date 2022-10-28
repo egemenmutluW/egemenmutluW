@@ -48,7 +48,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egemenmutluW&show_icons=true&theme=radical)
 <hr width="50%" size="1">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=egemenmutluW&theme=synthwave&hide_border=true&border_radius=4.3&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="left">Trophy:</h3>
 
