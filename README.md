@@ -47,7 +47,8 @@
 <h3 align="left">Stats And Streak:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egemenmutluW&show_icons=true&theme=radical)
-<hr width="50%" size="1">
+
+<hr align="center" width="50%" size="1">
 
 <h3 align="left">Trophy:</h3>
 
